@@ -71,5 +71,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Provide ways for people to get in touch with you. For example:
 
 - **Email**: reach.samarpankc.com
-- **GitHub**: Samarpan KC(https://github.com/SamarpanKc)
+- **GitHub**: [Samarpan KC](https://github.com/SamarpanKc)
 
