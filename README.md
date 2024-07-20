@@ -70,6 +70,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Provide ways for people to get in touch with you. For example:
 
-- **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Email**: reach.samarpankc.com
+- **GitHub**: Samarpan KC(https://github.com/SamarpanKc)
 
