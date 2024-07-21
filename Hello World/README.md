@@ -26,7 +26,7 @@ This is the beginning of the main function. Every C program must have a main fun
 This line calls the printf function, which prints the specified string to the console. In this case, it prints `Hello World!`.
 5. `return 0;`
 This line terminates the main function and returns a value of 0 to the operating system. The return value 0 typically signifies that the program has executed successfully.
-6.`}`
+6. `}`
 This is the closing brace of the main function, indicating the end of the function.
 
 ## Summary
